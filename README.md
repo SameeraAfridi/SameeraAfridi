@@ -1,11 +1,27 @@
-### 👋 Hi, I’m @SameeraAfridi
-- 👀 I’m interested in Web Development, Open Source, and AI
-- 🌱 I’m currently learning Python and Data Structures
-- 🤝 I’m looking to collaborate on beginner-friendly open source projects
-- 📫 How to reach me: sameera.afridi@email.com
-- 😄 Pronouns: She/Her
- ⚡ Fun fact: I thought "Hello World!" was just a friendly greeting at first 👋
+👋 Hi, I'm Sameera Afridi
 
-<!--
-This README appears on your GitHub profile. It’s a great way to share a bit about yourself with the community.
--->
+🎓 Software Engineering Student at HITEC University💡 Passionate about AI, Web Development, and Building Smart Solutions
+
+🔧 Skills
+
+Java | Python | SQL | HTML | CSS | JavaScript
+
+AI Basics | Databases | Software Development
+
+🛠️ Projects
+
+Portfolio Website → Live Here
+
+Typing Speed Test (Assembly)
+
+Result Management System (Java)
+
+Face Detection (OpenCV, Python)
+
+📫 How to Reach Me
+
+Email: sameeraafridi77@gmail.com
+
+GitHub: github.com/SameeraAfridi
+
+LinkedIn: linkedin.com/in/sameera-afridi-724319327/
