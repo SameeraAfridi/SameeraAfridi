@@ -12,9 +12,9 @@ AI Basics | Databases | Software Development
 
 Portfolio Website → Live Here
 
-Typing Speed Test (Assembly)
+Door Lock System (Assembly 8086 Language)
 
-Result Management System (Java)
+Camous Navigation System (Java)
 
 Face Detection (OpenCV, Python)
 
