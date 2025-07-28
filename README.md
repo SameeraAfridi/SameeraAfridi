@@ -26,19 +26,15 @@
 
 | Project | Description | Tech Used |
 |--------|-------------|-----------|
-| [🔐 Door Lock System](https://github.com/SameeraAfridi/Door-Lock-System-Assembly) | Assembly language project simulating a secure door lock | 8086 Assembly |
-| [📍 Campus Navigation System](https://github.com/SameeraAfridi/Campus-Navigation-System) | Java application to simulate map-based navigation for students | Java |
-| [👩‍💻 Face Detection](https://github.com/SameeraAfridi/Face-Detection-CNN-OpenCV) | Face detection using OpenCV and Python on Colab | Python, OpenCV |
+| [🔐 Door Lock System](https://sameeraafridi.github.io/door-lock-system-assembly-8086/) | Assembly language project simulating a secure door lock | 8086 Assembly |
+| [📍 Campus Navigation System](https://sameeraafridi.github.io/Campus-Navigation-System-Java/)| Java application to simulate map-based navigation for students | Java |
+[📍 Student Result Management System]((https://sameeraafridi.github.io/Student-Result-Management-)) | Java application to simulate map-based navigation for students | Java |
 | [🌐 Portfolio Website](https://sameeraafridi.github.io/portfolio/) | Personal portfolio website with projects & skills | HTML, CSS, JavaScript |
-
-> 📌 If any of these repo names are different, let me know — I’ll update them for you!
-
----
 
 ## 📬 Contact Me
 
 <p>
-  <a href="mailto:sameeraafridi77@gmail.com"><img src="https://img.shields.io/badge/Email-sameeraafridi77@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto: sameeraafridi77@gmail.com "><img src="https://img.shields.io/badge/Email-sameeraafridi77@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/SameeraAfridi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://linkedin.com/in/sameera-afridi-724319327/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
