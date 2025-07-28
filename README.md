@@ -34,7 +34,7 @@
 ## 📬 Contact Me
 
 <p>
-  <a href="mailto: sameeraafridi77@gmail.com "><img src="https://img.shields.io/badge/Email-sameeraafridi77@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:sameeraafridi77@gmail.com"><img src="https://img.shields.io/badge/Email--D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/SameeraAfridi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://linkedin.com/in/sameera-afridi-724319327/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
