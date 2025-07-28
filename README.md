@@ -28,7 +28,7 @@
 |--------|-------------|-----------|
 | [🔐 Door Lock System](https://sameeraafridi.github.io/door-lock-system-assembly-8086/) | Assembly language project simulating a secure door lock | 8086 Assembly |
 | [📍 Campus Navigation System](https://sameeraafridi.github.io/Campus-Navigation-System-Java/)| Java application to simulate map-based navigation for students | Java |
-[📍 Student Result Management System]((https://sameeraafridi.github.io/Student-Result-Management-)) | Java application to simulate map-based navigation for students | Java |
+[📍 Student Result Management System](https://sameeraafridi.github.io/Student-Result-Management-) | Java application to simulate map-based navigation for students | Java |
 | [🌐 Portfolio Website](https://sameeraafridi.github.io/portfolio/) | Personal portfolio website with projects & skills | HTML, CSS, JavaScript |
 
 ## 📬 Contact Me
