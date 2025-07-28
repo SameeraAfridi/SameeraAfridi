@@ -26,20 +26,19 @@
 
 | Project | Description | Tech Used |
 |--------|-------------|-----------|
-| [🔐 Door Lock System](#) | Assembly language project simulating a secure door lock | 8086 Assembly |
-| [📍 Campus Navigation System](#) | Java application to simulate map-based navigation for students | Java |
-| [📍 Student Result management System](#) | Java application to calculate  marks and grade  for students | Java |
-| [👩‍💻 Face Detection](#) | Face detection using OpenCV and Python on Colab | Python, OpenCV |
-| [🌐 Portfolio Website](https://sameera-portfolio-link.netlify.app/) | Personal portfolio website with projects & skills | HTML, CSS, JavaScript |
+| [🔐 Door Lock System](https://github.com/SameeraAfridi/Door-Lock-System-Assembly) | Assembly language project simulating a secure door lock | 8086 Assembly |
+| [📍 Campus Navigation System](https://github.com/SameeraAfridi/Campus-Navigation-System) | Java application to simulate map-based navigation for students | Java |
+| [👩‍💻 Face Detection](https://github.com/SameeraAfridi/Face-Detection-CNN-OpenCV) | Face detection using OpenCV and Python on Colab | Python, OpenCV |
+| [🌐 Portfolio Website](https://sameeraafridi.github.io/portfolio/) | Personal portfolio website with projects & skills | HTML, CSS, JavaScript |
 
-> 📌 Let me know if you want me to link each project directly to a GitHub repo!
+> 📌 If any of these repo names are different, let me know — I’ll update them for you!
 
 ---
 
 ## 📬 Contact Me
 
 <p>
-  <a href="mailto:sameeraafridi77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:sameeraafridi77@gmail.com"><img src="https://img.shields.io/badge/Email-sameeraafridi77@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/SameeraAfridi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://linkedin.com/in/sameera-afridi-724319327/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
@@ -54,12 +53,7 @@
 
 ---
 
-## ❤️ A Quote I Like
-
-> *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
-
----
 
 <p align="center">
-  Thanks for visiting my profile! ⭐
+  💖 Thanks for visiting my profile!
 </p>
