@@ -1,14 +1,14 @@
-<h1 align="center">👋 Hi, I'm Sameera Afridi</h1>
+<h1 align="center"> Hi, I'm Sameera Afridi</h1>
 
 <p align="center">
-🎓 Software Engineering Student at HITEC University  
-💡 Passionate about AI, Web Development & Building Smart Solutions  
-📍 From Pakistan 🇵🇰  
+Software Engineering Student at HITEC University  
+Passionate about AI, Web Development & Building Smart Solutions  
+From Pakistan 🇵🇰  
 </p>
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -22,14 +22,13 @@
 
 ---
 
-## 📂 Projects Showcase
-
+##  Projects Showcase
 | Project | Description | Tech Used |
 |--------|-------------|-----------|
-| [🔐 Door Lock System](https://sameeraafridi.github.io/door-lock-system-assembly-8086/) | Assembly language project simulating a secure door lock | 8086 Assembly |
-| [📍 Campus Navigation System](https://sameeraafridi.github.io/Campus-Navigation-System-Java/)| Java application to simulate map-based navigation for students | Java |
-[📊 Student Result Management System](https://sameeraafridi.github.io/Student-Result-Management-System/)
-| [🌐 Portfolio Website](https://sameeraafridi.github.io/portfolio/) | Personal portfolio website with projects & skills | HTML, CSS, JavaScript |
+| [Door Lock System](https://sameeraafridi.github.io/door-lock-system-assembly-8086/) | Assembly language project simulating a secure door lock | 8086 Assembly |
+| [Campus Navigation System](https://sameeraafridi.github.io/Campus-Navigation-System-Java/) | Java application to simulate map-based navigation for students | Java |
+| [Student Result Management System](https://github.com/SameeraAfridi/Student-Result-Management-System) | Java application for managing and displaying student results | Java |
+| [Portfolio Website](https://sameeraafridi.github.io/portfolio/) | Personal portfolio website with projects & skills | HTML, CSS, JavaScript |
 
 ## 📬 Contact Me
 
@@ -41,7 +40,7 @@
 
 ---
 
-## 🧠 Currently Learning
+## Currently Learning
 
 - Advanced Web Development  
 - AI & Machine Learning Basics  
@@ -51,5 +50,5 @@
 
 
 <p align="center">
-  💖 Thanks for visiting my profile!
+   Thanks for visiting my profile!
 </p>
