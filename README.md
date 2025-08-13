@@ -29,8 +29,8 @@ From Pakistan 🇵🇰
 | [Student Result Management System](https://github.com/SameeraAfridi/Student-Result-Management-System) | Java application for managing and displaying student results | Java |
 | [Portfolio Website](https://sameeraafridi.github.io/portfolio/) | Personal portfolio website with projects & skills | HTML, CSS, JavaScript |
 | [University Landing Page](https://sameeraafridi.github.io/university-landing-page/) | Responsive landing page for a university website | HTML, CSS |
-| [To-Do App](https://github.com/SameeraAfridi/todo-app-js) | JavaScript-based to-do list application with task management | HTML, CSS, JavaScript |
-| [My Web Dev Journey Blog](https://sameeraafridi.github.io/my-webdev-journey/) | Blog documenting my web development journey | HTML, CSS, Firebase |
+| [To-Do App](https://github.com/SameeraAfridi/todo-app-js) | HTML,CSS Base to-do list application with task management | HTML, CSS |
+| [My Web Dev Journey Blog](https://sameeraafridi.github.io/my-webdev-journey/) | Blog documenting my web development journey | HTML, CSS, Firebase,javascript |
 
 ## 📬 Contact Me
 
