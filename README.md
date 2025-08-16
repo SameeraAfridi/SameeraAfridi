@@ -31,7 +31,7 @@ From Pakistan 🇵🇰
 | [University Landing Page](https://sameeraafridi.github.io/university-landing-page/) | Responsive landing page for a university website | HTML, CSS |
 | [To-Do App](https://github.com/SameeraAfridi/todo-app-js) | Java script  Base to-do list application with task management | HTML, CSS,javascript |
 | [My Web Dev Journey Blog](https://sameeraafridi.github.io/my-webdev-journey/) | Blog documenting my web development journey | HTML, CSS, Firebase,Javascript |
-| [University landing page with javascript](https://sameeraafridi.github.io/my-webdev-journey/) | landing page  Added features of javascript | HTML, CSS, Javascript |
+| [University landing page with javascript](https://github.com/SameeraAfridi/university-landing-page-java-script) | landing page  Added features of javascript | HTML, CSS, Javascript |
 ## 📬 Contact Me
 
 <p>
