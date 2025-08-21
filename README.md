@@ -53,7 +53,8 @@ From Pakistan 🇵🇰
 
 - Advanced Web Development  
 - AI & Machine Learning Basics  
-- Real-world Software Design Patterns  
+- Real-world Software Design Patterns
+- Backend development 
 
 ---
 
