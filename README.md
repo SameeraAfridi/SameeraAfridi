@@ -33,6 +33,7 @@ From Pakistan 🇵🇰
 | [My Web Dev Journey Blog](https://sameeraafridi.github.io/my-webdev-journey/) | Blog documenting my web development journey | HTML, CSS, Firebase,Javascript |
 | [University landing page with javascript](https://github.com/SameeraAfridi/university-landing-page-java-script) | landing page  Added features of javascript | HTML, CSS, Javascript |
 | [Calculator (basic operations: +, -, ×, ÷)](https://github.com/SameeraAfridi/Calculator) | Java, console based Calculator | Java |
+| [Bank Management System](https://github.com/SameeraAfridi/Bank-Account-Management-System) | Java, console based System | Java |
 
 ## 📬 Contact Me
 
