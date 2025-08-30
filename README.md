@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Sameera Afridi</h1>
+<h1 align="center"> Hi, I'm Sameera Afridi :) </h1>
 
 <p align="center">
 Software Engineering Student at HITEC University  
@@ -58,7 +58,7 @@ From Pakistan 🇵🇰
 - Advanced Web Development  
 - AI & Machine Learning Basics  
 - Real-world Software Design Patterns
-- Backend development 
+- Backend development.
 
 ---
 
