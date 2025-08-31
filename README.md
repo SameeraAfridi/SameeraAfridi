@@ -6,7 +6,6 @@ Passionate about AI, Web Development & Building Smart Solutions
 From Pakistan 🇵🇰  
 </p>
 
----
 
 ##  Skills & Tools
 
