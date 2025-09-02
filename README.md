@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Sameera Afridi :) </h1>
+<h1 align="center"> Hi, I'm Sameera Afridi  </h1>
 
 <p align="center">
 Software Engineering Student at HITEC University  
