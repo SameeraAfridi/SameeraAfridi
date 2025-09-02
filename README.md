@@ -34,6 +34,7 @@ From Pakistan 🇵🇰
 | [Student Result Management System](https://github.com/SameeraAfridi/Student-Result-Management-System) | Java application for managing and displaying student results | Java |
 | [Bank Management System](https://github.com/SameeraAfridi/Bank-Account-Management-System) | Java, console based System | Java |
 | [Shape-Area-Calculator](https://github.com/SameeraAfridi/Shape-Area-Calculator) | Java, console based System | Java |
+| [Contact Manager System ](https://github.com/SameeraAfridi/Contact-Management-System/tree/main) | Java, console based System | Java |
 
 ## 📬 Contact Me
 
