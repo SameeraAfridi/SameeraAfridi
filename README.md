@@ -29,12 +29,12 @@ From Pakistan 🇵🇰
 | [To-Do App](https://github.com/SameeraAfridi/todo-app-js) | Java script  Base to-do list application with task management | HTML, CSS,javascript |
 | [My Web Dev Journey Blog](https://sameeraafridi.github.io/my-webdev-journey/) | Blog documenting my web development journey | HTML, CSS, Firebase,Javascript |
 | [University landing page with javascript](https://github.com/SameeraAfridi/university-landing-page-java-script) | landing page  Added features of javascript | HTML, CSS, Javascript |
-| [Campus Navigation System](https://sameeraafridi.github.io/Campus-Navigation-System-Java/) | Java application to simulate map-based navigation for students | Java |
-| [Calculator (basic operations: +, -, ×, ÷)](https://github.com/SameeraAfridi/Calculator) | Java, console based Calculator | Java |
-| [Student Result Management System](https://github.com/SameeraAfridi/Student-Result-Management-System) | Java application for managing and displaying student results |GUI, Java |
-| [Bank Management System](https://github.com/SameeraAfridi/Bank-Account-Management-System) | Java, console based System | Java |
-| [Shape-Area-Calculator](https://github.com/SameeraAfridi/Shape-Area-Calculator) | Java, console based System | Java |
-| [Contact Manager System ](https://github.com/SameeraAfridi/Contact-Management-System/tree/main) | Java, console based System | Java |
+| [Campus Navigation System](https://sameeraafridi.github.io/Campus-Navigation-System-Java/) | Java application to simulate map-based navigation for students | JAVA |
+| [Calculator (basic operations: +, -, ×, ÷)](https://github.com/SameeraAfridi/Calculator) | Java, console based Calculator | JAVA |
+| [Student Result Management System](https://github.com/SameeraAfridi/Student-Result-Management-System) | Java application for managing and displaying student results |GUI, JAVA |
+| [Bank Management System](https://github.com/SameeraAfridi/Bank-Account-Management-System) | Java, console based System | JAVA |
+| [Shape-Area-Calculator](https://github.com/SameeraAfridi/Shape-Area-Calculator) | Java, console based System | JAVA |
+| [Contact Manager System ](https://github.com/SameeraAfridi/Contact-Management-System/tree/main) | Java, console based System | JAVA |
 
 ## 📬 Contact Me
 
