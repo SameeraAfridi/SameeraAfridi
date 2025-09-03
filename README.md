@@ -1,70 +1,31 @@
-<h1 align="center">Hi 👋, I'm Sameera Afridi</h1>
+<h1 align="center">Hi , I'm Sameera Afridi</h1>
 <h3 align="center">Software Engineering Student at HITEC University | Passionate about AI, Web Development & Building Smart Solutions | From Pakistan 🇵🇰</h3>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameeraafridi" alt="sameeraafridi" /></a> </p>
 
-### 🔭 I’m currently working on
-- [Java Console Projects](https://github.com/SameeraAfridi?tab=repositories) (Bank Management, Contact Manager, etc.)
-- Building my **AI & Web Development learning path**
+- 🔭 I’m currently working on **Building my **AI & Web Development learning path**
 
-### 👯 I’m looking to collaborate on
-- Open-source projects related to **AI & Web Development**
-- Java-based backend systems
+- 🌱 I’m currently learning **Advanced Web Development (Meta Front-End Specialization) Backend Development with Java AI & Machine Learning Basics**
 
-### 🤝 I’m looking for help with
-- Understanding **Spring Boot & backend best practices**
+- 👯 I’m looking to collaborate on **- Open-source projects related to **AI & Web Development** - Java-based backend sy**
 
-### 🌱 I’m currently learning
-- Advanced Web Development (Meta Front-End Specialization)  
-- Backend Development with Java  
-- AI & Machine Learning Basics  
+- 📝 I regularly write articles on [https://github.com/SameeraAfridi?tab=repositories](https://github.com/SameeraAfridi?tab=repositories)
 
-### 💬 Ask me about
-- Java, Python, Web Development, OpenCV, and Software Design Patterns  
+- 💬 Ask me about **Java, Python, Web Development, and Software Design Patterns**
 
-### 📫 How to reach me
-- Email: **sameeraafridi77@gmail.com**  
-- LinkedIn: [Sameera Afridi](https://www.linkedin.com/in/sameera-afridi-823833378)  
+- 📫 How to reach me **- Email: **sameeraafridi77@gmail.com** - LinkedIn: [Sameera Afridi](https://www.linkedin.com/in/sameera-afridi-823833378)**
 
-### 👨‍💻 All of my projects are available at
-- [My GitHub Repositories](https://github.com/SameeraAfridi?tab=repositories)
+- 📄 Know about my experiences [https://sameeraafridi.github.io/portfolio/](https://sameeraafridi.github.io/portfolio/)
 
-### 📝 I regularly write articles on
-- [My Web Dev Journey Blog](https://sameeraafridi.github.io/my-webdev-journey/)
+- ⚡ Fun fact **- I love solving problems through smart coding solutions**
 
-### 📄 Know about my experiences
-- [Portfolio Website](https://sameeraafridi.github.io/portfolio/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sameera afridi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameera afridi" height="30" width="40" /></a>
+<a href="https://instagram.com/sameera_afridi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameera_afridi_" height="30" width="40" /></a>
+</p>
 
-### ⚡ Fun fact
-- I love solving problems through **smart coding solutions** 🚀
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
----
-
-## 🛠️ Skills & Tools
-
-**Programming Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frontend Development**  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
-
-**AI/ML**  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Sameera's GitHub stats](https://github-readme-stats.vercel.app/api?username=SameeraAfridi&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SameeraAfridi&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SameeraAfridi&theme=radical)
-
----
-
-<p align="center">⭐️ Thanks for visiting my profile! ⭐️</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameeraafridi&" alt="sameeraafridi" /></p>
