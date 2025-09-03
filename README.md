@@ -1,4 +1,4 @@
-<img width="687" height="121" alt="image" src="https://github.com/user-attachments/assets/0a50f7c6-8388-40a4-9c4f-402ebe6c0901" /><h1 align="center"> Hi, I'm Sameera Afridi  </h1>
+<h1 align="center"> Hi, I'm Sameera Afridi  </h1>
 
 <p align="center">
 Software Engineering Student at HITEC University  
