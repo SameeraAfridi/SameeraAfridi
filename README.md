@@ -1,68 +1,70 @@
-<h1 align="center"> Hi, I'm Sameera Afridi  </h1>
-
-<p align="center">
-Software Engineering Student at HITEC University  
-Passionate about AI, Web Development & Building Smart Solutions  
-From Pakistan 🇵🇰  
-</p>
-
-
-##  Skills & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</p>
-
----
-| Project | Description | Tech Used |
-|--------|-------------|-----------|
-| [Door Lock System](https://sameeraafridi.github.io/door-lock-system-assembly-8086/) | Assembly language project simulating a secure door lock | 8086 Assembly |
-| [Portfolio Website](https://sameeraafridi.github.io/portfolio/) | Personal portfolio website with projects & skills | HTML, CSS, JavaScript |
-| [University Landing Page](https://sameeraafridi.github.io/university-landing-page/) | Responsive landing page for a university website | HTML, CSS |
-| [To-Do App](https://github.com/SameeraAfridi/todo-app-js) | Java script  Base to-do list application with task management | HTML, CSS,javascript |
-| [My Web Dev Journey Blog](https://sameeraafridi.github.io/my-webdev-journey/) | Blog documenting my web development journey | HTML, CSS, Firebase,Javascript |
-| [University landing page with javascript](https://github.com/SameeraAfridi/university-landing-page-java-script) | landing page  Added features of javascript | HTML, CSS, Javascript |
-| [Campus Navigation System](https://sameeraafridi.github.io/Campus-Navigation-System-Java/) | Java application to simulate map-based navigation for students | JAVA |
-| [Calculator (basic operations: +, -, ×, ÷)](https://github.com/SameeraAfridi/Calculator) | Java, console based Calculator | JAVA |
-| [Student Result Management System](https://github.com/SameeraAfridi/Student-Result-Management-System) | Java application for managing and displaying student results |GUI, JAVA |
-| [Bank Management System](https://github.com/SameeraAfridi/Bank-Account-Management-System) | Java, console based System | JAVA |
-| [Shape-Area-Calculator](https://github.com/SameeraAfridi/Shape-Area-Calculator) | Java, console based System | JAVA |
-| [Contact Manager System ](https://github.com/SameeraAfridi/Contact-Management-System/tree/main) | Java, console based System | JAVA |
-
-
-## 📬 Contact Me
-
-<p>
-  <a href="mailto: sameeraafridi77@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/SameeraAfridi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sameera-afridi-823833378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
+<h1 align="center">Hi 👋, I'm Sameera Afridi</h1>
+<h3 align="center">Software Engineering Student at HITEC University | Passionate about AI, Web Development & Building Smart Solutions | From Pakistan 🇵🇰</h3>
 
 ---
 
-## Currently Learning
+### 🔭 I’m currently working on
+- [Java Console Projects](https://github.com/SameeraAfridi?tab=repositories) (Bank Management, Contact Manager, etc.)
+- Building my **AI & Web Development learning path**
 
-- Advanced Web Development  
+### 👯 I’m looking to collaborate on
+- Open-source projects related to **AI & Web Development**
+- Java-based backend systems
+
+### 🤝 I’m looking for help with
+- Understanding **Spring Boot & backend best practices**
+
+### 🌱 I’m currently learning
+- Advanced Web Development (Meta Front-End Specialization)  
+- Backend Development with Java  
 - AI & Machine Learning Basics  
-- Real-world Software Design Patterns
-- Backend development.
+
+### 💬 Ask me about
+- Java, Python, Web Development, OpenCV, and Software Design Patterns  
+
+### 📫 How to reach me
+- Email: **sameeraafridi77@gmail.com**  
+- LinkedIn: [Sameera Afridi](https://www.linkedin.com/in/sameera-afridi-823833378)  
+
+### 👨‍💻 All of my projects are available at
+- [My GitHub Repositories](https://github.com/SameeraAfridi?tab=repositories)
+
+### 📝 I regularly write articles on
+- [My Web Dev Journey Blog](https://sameeraafridi.github.io/my-webdev-journey/)
+
+### 📄 Know about my experiences
+- [Portfolio Website](https://sameeraafridi.github.io/portfolio/)
+
+### ⚡ Fun fact
+- I love solving problems through **smart coding solutions** 🚀
 
 ---
 
+## 🛠️ Skills & Tools
 
-<p align="center">
-   Thanks for visiting my profile!
-</p>
+**Programming Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frontend Development**  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
+
+**AI/ML**  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Sameera's GitHub stats](https://github-readme-stats.vercel.app/api?username=SameeraAfridi&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SameeraAfridi&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SameeraAfridi&theme=radical)
+
+---
+
+<p align="center">⭐️ Thanks for visiting my profile! ⭐️</p>
