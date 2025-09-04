@@ -3,11 +3,11 @@
 
 ---
 
-- 🔭 I’m currently working on **Building my AI & Web Development learning path**  
-- 🌱 I’m currently learning **Advanced Web Development (Meta Front-End Specialization), Backend Development with Java, AI & Machine Learning Basics**  
-- 👯 I’m looking to collaborate on **Open-source projects related to AI & Web Development and Java-based backend systems**  
-- 📝 I regularly write articles on [My Blog](https://sameeraafridi.github.io/my-webdev-journey/)  
-- 📄 Know about my experiences [Portfolio Website](https://sameeraafridi.github.io/portfolio/)  
+-  I’m currently working on **Building my AI & Web Development learning path**  
+-  I’m currently learning **Advanced Web Development (Meta Front-End Specialization), Backend Development with Java, AI & Machine Learning Basics**  
+-  I’m looking to collaborate on **Open-source projects related to AI & Web Development and Java-based backend systems**  
+-  I regularly write articles on [My Blog](https://sameeraafridi.github.io/my-webdev-journey/)  
+- Know about my experiences [Portfolio Website](https://sameeraafridi.github.io/portfolio/)  
 
 ---
 
