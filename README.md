@@ -8,7 +8,7 @@
 -  I’m looking to collaborate on **Open-source projects related to AI & Web Development and Java-based backend systems**  
 
 
----
+--
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
