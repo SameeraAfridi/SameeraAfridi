@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameera Afridi</h1>
-<h3 align="center">Software Engineering Student @ HITEC University | Aspiring Researcher in AI & Machine Learning | Web & Backend Developer</h3>
+<h3 align="center">Software Engineering Student At HITEC University | Aspiring Researcher in AI & Machine Learning | Web & Backend Developer</h3>
 
 ---
 
