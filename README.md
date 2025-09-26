@@ -3,7 +3,7 @@
 
 ---
 
--  I’m currently deepening my knowledge in **AI, Machine Learning, and Web/Backend Development**
+-  I’m currently deepening my knowledge in  **AI, Machine Learning, and Web/Backend Development**
 -  I’m working on projects in **Natural Language Processing, Computer Vision, and Java-based backend systems**
 -  I’m looking to collaborate on **AI-driven research projects & open-source contributions**
 -  I regularly share my learning journey and insights on [My Blog](https://sameeraafridi.github.io/sameera-dev-logs/)  
